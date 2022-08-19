@@ -1,0 +1,1 @@
+export const ipApiUrl = 'http://ip-api.com/json/'
