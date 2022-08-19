@@ -1,10 +1,10 @@
 # Install
 
-* yarn install
+* npm install
 
 # Run
 
-* yarn start 
+* npm start 
 
 ## Deployment on Heroku using git repo
 * Create new app via New Button
